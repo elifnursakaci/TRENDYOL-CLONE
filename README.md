@@ -2,7 +2,7 @@
 
 - This project aims to create a shopping website similar to Trendyol's homepage using HTML and CSS.
 
-##Project Description
+## Project Description
 - This Trendyol-like shopping website symbolizes a web application showcasing products in various categories, providing users with the ability to shop and explore products. 
 
 ## Technologies Used
@@ -18,5 +18,5 @@
 
 ## GIF
 
-<img  src="trendyl.gif"/>
+<img  src="trendyol.gif"/>
 
